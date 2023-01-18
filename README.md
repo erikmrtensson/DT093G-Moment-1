@@ -1,7 +1,7 @@
 # Moment 1 - Versionshantering & Git
 
 
-## Syftet med uppgiften är att:
+Syftet med uppgiften är att:
 
 - Förstå syftet med versionshanteringssystem.
 - Kunna använda Git för versionshantering.
